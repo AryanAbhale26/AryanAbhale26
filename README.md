@@ -116,20 +116,13 @@
 ---
 
 
-## 🐍 Swallowing My Contributions
+## My Contributions
 
-<br/>
+<br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanAbhale26&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanAbhale26/AryanAbhale26/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanAbhale26/AryanAbhale26/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AryanAbhale26/AryanAbhale26/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
-
-</div>
-
-<br/>
+<br/><br/>
 
 
 ---
