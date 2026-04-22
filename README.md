@@ -115,11 +115,21 @@
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanabhale26&theme=vue&hide_border=true" alt="Contribution Graph">
+## 🐍 Swallowing My Contributions
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanAbhale26/AryanAbhale26/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanAbhale26/AryanAbhale26/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AryanAbhale26/AryanAbhale26/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
 </div>
+
+<br/>
+
 
 ---
 
