@@ -116,13 +116,6 @@
 ---
 
 
-## My Contributions
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanAbhale26&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
-
-<br/><br/>
 
 
 ---
