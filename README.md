@@ -116,6 +116,7 @@
 ---
 
 
+![snake gif](https://github.com/AryanAbhale26/AryanAbhale26/blob/output/github-snake-dark.svg)
 
 
 ---
